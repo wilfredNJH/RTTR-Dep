@@ -1,0 +1,574 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\constructor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\destructor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\enumeration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\library.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\method.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\parameter_info.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\policy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\property.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\registration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\type.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\variant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\variant_associative_view.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\variant_sequential_view.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\comparison\compare_equal.cpp">
+      <Filter>detail\comparison</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\comparison\compare_less.cpp">
+      <Filter>detail\comparison</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\standard_types.cpp">
+      <Filter>detail\misc</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\conversion\std_conversion_functions.cpp">
+      <Filter>detail\conversion</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\constructor\constructor_wrapper_base.cpp">
+      <Filter>detail\constructor</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\destructor\destructor_wrapper_base.cpp">
+      <Filter>detail\destructor</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\enumeration\enumeration_helper.cpp">
+      <Filter>detail\enumeration</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\enumeration\enumeration_wrapper_base.cpp">
+      <Filter>detail\enumeration</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\library\library_win.cpp">
+      <Filter>detail\library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\library\library_unix.cpp">
+      <Filter>detail\library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\method\method_wrapper_base.cpp">
+      <Filter>detail\method</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\parameter_info\parameter_info_wrapper_base.cpp">
+      <Filter>detail\parameter_info</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\property\property_wrapper_base.cpp">
+      <Filter>detail\property</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\registration\registration_executer.cpp">
+      <Filter>detail\registration</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\registration\registration_state_saver.cpp">
+      <Filter>detail\registration</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\type\type_data.cpp">
+      <Filter>detail\type</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\type\type_register.cpp">
+      <Filter>detail\type</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\variant\variant_compare.cpp">
+      <Filter>detail\variant</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\base\version.h">
+      <Filter>detail\base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\access_levels.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\argument.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\array_range.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\associative_mapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\constructor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\destructor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\enumeration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\enum_flags.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\filter_item.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\instance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\library.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\method.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\policy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\property.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\parameter_info.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\registration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\registration_friend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\sequential_mapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\string_view.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\rttr_cast.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\rttr_enable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\type.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\variant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\variant_associative_view.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\variant_sequential_view.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\wrapper_mapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\base\core_prerequisites.h">
+      <Filter>detail\base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\comparison\comparable_types.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\comparison\compare_array_less.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\comparison\compare_array_less_impl.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\comparison\compare_array_equal.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\comparison\compare_array_equal_impl.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\comparison\compare_equal.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\comparison\compare_equal_impl.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\comparison\compare_less.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\comparison\compare_less_impl.h">
+      <Filter>detail\comparison</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\constructor\constructor_invoker.h">
+      <Filter>detail\constructor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\constructor\constructor_wrapper.h">
+      <Filter>detail\constructor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\constructor\constructor_wrapper_defaults.h">
+      <Filter>detail\constructor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\constructor\constructor_wrapper_base.h">
+      <Filter>detail\constructor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\conversion\std_conversion_functions.h">
+      <Filter>detail\conversion</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\conversion\number_conversion.h">
+      <Filter>detail\conversion</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\default_arguments\default_arguments.h">
+      <Filter>detail\default_arguments</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\default_arguments\invoke_with_defaults.h">
+      <Filter>detail\default_arguments</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\destructor\destructor_wrapper.h">
+      <Filter>detail\destructor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\destructor\destructor_wrapper_base.h">
+      <Filter>detail\destructor</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\enumeration\enumeration_helper.h">
+      <Filter>detail\enumeration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\enumeration\enumeration_wrapper.h">
+      <Filter>detail\enumeration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\enumeration\enumeration_wrapper_base.h">
+      <Filter>detail\enumeration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\enumeration\enum_data.h">
+      <Filter>detail\enumeration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\filter\filter_item_funcs.h">
+      <Filter>detail\filter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\impl\argument_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\impl\array_range_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\impl\associative_mapper_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\impl\enum_flags_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\impl\instance_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\impl\rttr_cast_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\impl\sequential_mapper_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\impl\string_view_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\impl\wrapper_mapper_impl.h">
+      <Filter>detail\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\library\library_p.h">
+      <Filter>detail\library</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\metadata\metadata.h">
+      <Filter>detail\metadata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\metadata\metadata_handler.h">
+      <Filter>detail\metadata</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\method\method_accessor.h">
+      <Filter>detail\method</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\method\method_invoker.h">
+      <Filter>detail\method</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\method\method_wrapper.h">
+      <Filter>detail\method</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\method\method_wrapper_base.h">
+      <Filter>detail\method</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\argument_wrapper.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\argument_extractor.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\class_item_mapper.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\data_address_container.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\flat_map.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\flat_multimap.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\function_traits.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\iterator_wrapper.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\misc_type_traits.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\register_wrapper_mapper_conversion.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\sequential_container_type_traits.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\std_type_traits.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\template_type_trait.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\template_type_trait_impl.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\misc\utility.h">
+      <Filter>detail\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\parameter_info\parameter_infos.h">
+      <Filter>detail\parameter_info</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\parameter_info\parameter_infos_compare.h">
+      <Filter>detail\parameter_info</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\parameter_info\parameter_names.h">
+      <Filter>detail\parameter_info</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\parameter_info\parameter_info_wrapper_base.h">
+      <Filter>detail\parameter_info</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\parameter_info\parameter_info_wrapper.h">
+      <Filter>detail\parameter_info</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\policies\prop_policies.h">
+      <Filter>detail\policies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\policies\meth_policies.h">
+      <Filter>detail\policies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\policies\ctor_policies.h">
+      <Filter>detail\policies</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\property\property_accessor.h">
+      <Filter>detail\property</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\property\property_wrapper.h">
+      <Filter>detail\property</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\property\property_wrapper_base.h">
+      <Filter>detail\property</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\property\property_wrapper_func.h">
+      <Filter>detail\property</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\property\property_wrapper_member_func.h">
+      <Filter>detail\property</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\property\property_wrapper_member_object.h">
+      <Filter>detail\property</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\property\property_wrapper_object.h">
+      <Filter>detail\property</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\registration\bind_types.h">
+      <Filter>detail\registration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\registration\bind_impl.h">
+      <Filter>detail\registration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\registration\register_base_class_from_accessor.h">
+      <Filter>detail\registration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\registration\registration_impl.h">
+      <Filter>detail\registration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\registration\registration_executer.h">
+      <Filter>detail\registration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\registration\registration_manager.h">
+      <Filter>detail\registration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\registration\registration_state_saver.h">
+      <Filter>detail\registration</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\type\accessor_type.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\type\base_classes.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\type\get_create_variant_func.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\type\get_derived_info_func.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\type\type_converter.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\type\type_comparator.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\type\type_data.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\type\type_register.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\type\type_impl.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\type\type_name.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\type\type_register_p.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\type\type_string_utils.h">
+      <Filter>detail\type</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\variant\variant_compare.h">
+      <Filter>detail\variant</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\variant\variant_data.h">
+      <Filter>detail\variant</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\variant\variant_data_converter.h">
+      <Filter>detail\variant</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\variant\variant_data_policy.h">
+      <Filter>detail\variant</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\variant\variant_impl.h">
+      <Filter>detail\variant</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\variant_associative_view\variant_associative_view_private.h">
+      <Filter>detail\variant_associative_view</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\variant_associative_view\variant_associative_view_creator.h">
+      <Filter>detail\variant_associative_view</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\variant_associative_view\variant_associative_view_creator_impl.h">
+      <Filter>detail\variant_associative_view</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\variant_sequential_view\variant_sequential_view_private.h">
+      <Filter>detail\variant_sequential_view</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\variant_sequential_view\variant_sequential_view_creator_impl.h">
+      <Filter>detail\variant_sequential_view</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\variant_sequential_view\variant_sequential_view_creator.h">
+      <Filter>detail\variant_sequential_view</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\registration" />
+    <None Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\registration_friend" />
+    <None Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\type" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Wilfred\Downloads\rttr-0.9.6-src\src\rttr\detail\base\version.rc">
+      <Filter>Generated Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{B51F3920-9CB1-36E0-811A-8AD398C737B9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F333DEC0-85A6-3211-B0F1-477C9617843A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5CDDFCBF-6086-3BCF-A679-1E450E48C5ED}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail">
+      <UniqueIdentifier>{790E6B17-ABE1-3095-B1D8-1BF5D394F86F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\base">
+      <UniqueIdentifier>{CDD5D893-8E9C-35DA-8ADB-D2ED5CE96EDA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\comparison">
+      <UniqueIdentifier>{80B99620-9F59-3E73-BD59-ED7B594B5815}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\constructor">
+      <UniqueIdentifier>{AB488440-2656-3903-8087-07A363BF78B6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\conversion">
+      <UniqueIdentifier>{CD949A65-F6FC-38DC-AC57-09438A930E46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\default_arguments">
+      <UniqueIdentifier>{C6409D0A-0292-3A1E-8EE2-6353D7EBE6D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\destructor">
+      <UniqueIdentifier>{84D10E4E-AD4C-379F-B95E-7AB0A77088F7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\enumeration">
+      <UniqueIdentifier>{EB816513-F11E-3ED4-A58E-B50609AA9D98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\filter">
+      <UniqueIdentifier>{6C6BF749-9E4D-33E7-8148-74115E89A3F7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\impl">
+      <UniqueIdentifier>{421C3064-C5A2-3793-BC07-2CFD55F4D580}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\library">
+      <UniqueIdentifier>{F99D4DF9-9F1C-347E-8EE7-5BD6038026BA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\metadata">
+      <UniqueIdentifier>{083F2346-652D-306B-A683-D3A7F14F476E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\method">
+      <UniqueIdentifier>{79738EF4-629C-3EBB-B102-60B5D09B7D35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\misc">
+      <UniqueIdentifier>{ACBE7D5D-C491-3FEA-910B-438B74316AF8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\parameter_info">
+      <UniqueIdentifier>{EC86FBFF-B7F2-306F-9034-CB615184B75B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\policies">
+      <UniqueIdentifier>{E9BFD4BD-166B-375C-A88F-950CA596835A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\property">
+      <UniqueIdentifier>{762B6C90-5D78-326C-A919-A26F99A79D80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\registration">
+      <UniqueIdentifier>{47245682-DA5A-3748-AE26-B4E027DD89B5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\type">
+      <UniqueIdentifier>{EDDAC639-FBE4-3296-A2C6-D34A52D4829D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\variant">
+      <UniqueIdentifier>{F8FE1E23-A27D-3990-9FDA-020A2F679B71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\variant_associative_view">
+      <UniqueIdentifier>{99720C66-5016-3948-86EE-4A749ADC5EB0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="detail\variant_sequential_view">
+      <UniqueIdentifier>{D7AD7651-5572-3CF1-9D2D-FDEE9B712E95}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
